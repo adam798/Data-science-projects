@@ -2,7 +2,7 @@
 Welcome to my Data Science Projects Repository! This repository serves as a showcase of my data-driven projects, where I explore, analyze, and visualize data to derive meaningful insights. Whether you're a fellow data enthusiast, a potential collaborator, or just curious, I hope you find this collection of projects informative and engaging.
 
 # About Me
-I am Adan Abdu, a passionate data science student with a strong desire to uncover patterns, solve complex problems, and make data-driven decisions. Through this repository, I aim to share my journey in the world of data science and provide a glimpse into the diverse range of projects I've worked on.
+I am Adan Abdullahi, a passionate data science student with a strong desire to uncover patterns, solve complex problems, and make data-driven decisions. Through this repository, I aim to share my journey in the world of data science and provide a glimpse into the diverse range of projects I've worked on.
 
 # Projects
 Here, you will find a growing collection of data science projects, each housed in its own dedicated directory. Each project includes:
